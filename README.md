@@ -1,6 +1,6 @@
 # Pierre's Bakery
 
-#### For Fidgetech 
+#### Bakery price calculator For Fidgetech
 
 #### By Kiernan Beattie
 
@@ -10,8 +10,9 @@
 
 ## Description
 
-* Calculates the amount of money it costs for different amounts of food with discounts built-in
-
+* Calculates the amount of money it costs for different amounts of Bread or pastries based on user input with discounts built-in.
+* Bread is is five dollars a loaf with a buy two get one free deal.
+* Pastries Prices two dollars a pastry with a one dollar discount for every third.
 ## Setup/Installation Requirements
 
 * _Clone this repo_
