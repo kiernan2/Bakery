@@ -18,11 +18,17 @@
 
 * _Clone this repo_
 
-* _cd Bakery\Bakery_
+* _cd Bakery.Solution\Bakery_
 
 * _dotnet restore_
 
 * _dotnet run_
+
+* _to test_
+
+* _cd Bakery.Solution\Bakery_
+
+* _and dotnet test_
 
 ## Known Bugs
 
