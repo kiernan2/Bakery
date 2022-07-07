@@ -9,19 +9,19 @@ namespace BreadTests
   public class TestClass
   {
     [TestMethod]
-    public void one_bread_price_check()
+    public void One_Bread_Price_Check()
     {
       Bread newBread = new Bread(1);
       Assert.AreEqual(newBread.Price, 5);
     }
     [TestMethod]
-    public void two_bread_price_check()
+    public void Two_Bread_Price_Check()
     {
       Bread newBread = new Bread(2);
       Assert.AreEqual(newBread.Price, 10);
     }
     [TestMethod]
-    public void three_bread_price_check()
+    public void Three_Bread_Price_Check()
     {
       Bread newBread = new Bread(3);
       Assert.AreEqual(newBread.Price, 10);

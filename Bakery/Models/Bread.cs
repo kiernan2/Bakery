@@ -10,9 +10,9 @@ namespace Bakery.Models
     public Bread(int number)
     {
       Number = number;
-      Price = priceCal(Number);
+      Price = PriceCal(Number);
     }
-    public static int priceCal(int number)
+    public static int PriceCal(int number)
     {
       int freeBread = (number / 3);
       int price = ((number - freeBread) * 5);
