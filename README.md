@@ -24,9 +24,13 @@
 
 * _dotnet run_
 
+## For Testing
+
 * _to test_
 
-* _cd Bakery.Solution\Bakery_
+* _cd Bakery.Solution\BakeryTests_
+
+* _dotnet restore_
 
 * _and dotnet test_
 
